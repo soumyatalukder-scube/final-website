@@ -6,6 +6,6 @@
  * message to this address. Automatic delivery starts after confirmation.
  */
 window.SCUBE_CONFIG = {
-  contactEmail: "contact@scubeaiconsulting.com",
+  contactEmail: "contact@scubeaiconsulting.in",
   formEndpoint: "",
 };
