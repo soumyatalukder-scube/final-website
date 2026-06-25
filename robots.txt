@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /admin/
 
-Sitemap: https://scubeaiconsulting.com/sitemap.xml
+Sitemap: https://scubeaiconsulting.in/sitemap.xml
